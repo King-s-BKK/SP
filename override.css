@@ -16,6 +16,11 @@ body .fc {
     font-size: 1em
 }
 
+#middle-content-0 {
+  width: 200%;
+}
+
+
 .fc-unthemed .fc-content,.fc-unthemed .fc-divider,.fc-unthemed .fc-popover,.fc-unthemed .fc-row,.fc-unthemed tbody,.fc-unthemed td,.fc-unthemed th,.fc-unthemed thead {
     border-color: #ddd
 }
@@ -61,7 +66,7 @@ body .fc {
     font-size: 1em;
     text-align: center;
     overflow: hidden;
-    font-family: "Courier New",Courier,monospace;
+    font-family: “Lato”, sans-serif;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
@@ -890,7 +895,7 @@ a.fc-more:hover {
     overflow: hidden;
     line-height: 8px;
     font-size: 11px;
-    font-family: monospace;
+    font-family: “Lato”, sans-serif;
     text-align: center;
     cursor: s-resize
 }
@@ -1349,7 +1354,7 @@ a.fc-more:hover {
 
 :root {
     --rx-font-ui: -apple-system,BlinkMacSystemFont,"San Francisco","Segoe UI",Roboto,"Helvetica Neue",sans-serif;
-    --rx-font-ui-mono: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --rx-font-ui-mono: ui-”Lato”, sans-serif,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",”Lato”, sans-serif;
     --rx-rounded-sm: 3px;
     --rx-rounded-md: 6px;
     --rx-rounded-lg: 9px;
@@ -1532,8 +1537,8 @@ a.fc-more:hover {
     --breakpoint-md: 768px;
     --breakpoint-lg: 992px;
     --breakpoint-xl: 1200px;
-    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont, "Lato", sans-serif,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-family-”Lato”, sans-serif: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",”Lato”, sans-serif
 }
 
 [rx-data-theme=dark] {
@@ -3262,7 +3267,7 @@ a.rx-option-label,a.rx-option-label:hover {
     text-align: left;
     --rx-font-text: -apple-system,BlinkMacSystemFont,"San Francisco","Segoe UI",Roboto,"Helvetica Neue",sans-serif;
     --rx-font-heading: inherit;
-    --rx-font-mono: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --rx-font-mono: ui-”Lato”, sans-serif,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",”Lato”, sans-serif;
     --rx-body-color: var(--rx-bg-body);
     --rx-heading-color: var(--rx-fg-heading);
     --rx-text-color: var(--rx-fg-text);
@@ -20969,7 +20974,7 @@ a:not([href]):not([class]),a:not([href]):not([class]):hover {
 }
 
 code,kbd,pre,samp {
-    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",”Lato”, sans-serif;
     font-size: 1em
 }
 
@@ -30791,8 +30796,8 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
     background-color: rgba(0,0,0,0)
 }
 
-.text-monospace {
-    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace!important
+.text-”Lato”, sans-serif {
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",”Lato”, sans-serif!important
 }
 
 .text-justify {
