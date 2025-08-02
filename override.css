@@ -46494,7 +46494,7 @@ div.react-loader {
 }
 
 body,html {
-    font-family: "Open Sans",sans-serif;
+    font-family: "Lato",sans-serif !important;
     max-height: 100%;
     margin: 0;
     overflow-x: clip;
@@ -47739,9 +47739,40 @@ body.sectionHomePage .homepage-component>div div.component-footer i {
     font-size: 12px
 }
 
-body.sectionHomePage div.dashboard-v2 div.dashboard-column-left,body.sectionHomePage div.dashboard-v2 div.dashboard-column-middle,body.sectionHomePage div.dashboard-v2 div.dashboard-column-right {
-    position: relative
+/* body.sectionHomePage div.dashboard-v2 div.dashboard-column-left,body.sectionHomePage div.dashboard-v2 div.dashboard-column-middle,body.sectionHomePage div.dashboard-v2 div.dashboard-column-right {
+   /* position: relative
+/* }
+/* Hide the left column */
+body.sectionHomePage div.dashboard-v2 div.dashboard-column-left {
+  display: none !important;
 }
+
+/* Flex container */
+body.sectionHomePage div.dashboard-v2 {
+  display: flex;
+  width: 100%;
+}
+
+/* Middle column defaults to 80% */
+body.sectionHomePage div.dashboard-v2 div.dashboard-column-middle {
+  position: relative;
+  flex: 0 0 80%;
+  transition: flex 0.3s ease;
+}
+
+/* Right column: 20% width */
+body.sectionHomePage div.dashboard-v2 div.dashboard-column-right {
+  position: relative;
+  flex: 0 0 20%;
+  transition: flex 0.3s ease;
+}
+
+/* When right column is hidden, make middle column full width */
+body.sectionHomePage div.dashboard-v2:not(:has(.dashboard-column-right)) div.dashboard-column-middle {
+  flex: 1 0 100%;
+}
+
+
 
 body.sectionHomePage div.dashboard-v2 div.homepage-component {
     -webkit-transition: top .1s,width .1s,height .1s,left .1s,right .1s,-webkit-transform .1s;
@@ -48872,25 +48903,6 @@ body.sectionHomePage div.dashboard-column-middle .homepage-component {
     body.sectionHomePage div.row.dashboard-column-left div.homepage-component,body.sectionHomePage div.row.dashboard-column-middle,body.sectionHomePage div.row.dashboard-column-middle div.homepage-component,body.sectionHomePage div.row.dashboard-column-right div.homepage-component {
         padding: 0 7.5px
     }
-
-/* Hide the left column */
-body.sectionHomePage div.dashboard-v2 div.dashboard-column-left {
-  display: none !important;
-}
-
-/* Style middle column */
-body.sectionHomePage div.dashboard-v2 div.dashboard-column-middle {
-  position: relative;
-  width: 80%;
-  float: left;
-}
-
-/* Style right column */
-body.sectionHomePage div.dashboard-v2 div.dashboard-column-right {
-  position: relative;
-  width: 20%;
-  float: left;
-}
 
 }
 
