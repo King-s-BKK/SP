@@ -25209,12 +25209,16 @@ input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-
     flex-wrap: wrap;
     padding-left: 0;
     margin-bottom: 0;
-    list-style: none
+    list-style: none;
+  font-family: "Lato", sans-serif !important ;
+ font-weight: 300;
 }
 
 .nav-link {
     display: block;
-    padding: .5rem 1rem
+    padding: .5rem 1rem;
+  font-family: "Lato", sans-serif !important ;
+ font-weight: 300;
 }
 
 .nav-link:focus,.nav-link:hover {
@@ -42984,7 +42988,9 @@ body div.sub-heading {
 }
 
 body a {
-    color: #141f5a
+    color: #141f5a;
+font-family: "Lato", sans-serif !important ;
+ font-weight: 300;
 }
 
 body a:focus,body a:hover {
@@ -47094,6 +47100,7 @@ div.staff-student-selector div.frame button[data-action=view-student] {
 }
 
 div.st-sidebar-container {
+ display:none !important;
     -webkit-box-shadow: 0 1px 5px 0 rgba(0,0,0,.09);
     box-shadow: 0 1px 5px 0 rgba(0,0,0,.09);
     background: #fff;
@@ -47286,6 +47293,8 @@ div.st-sidebar-container ul li a:focus,div.st-sidebar-container ul li a:hover,di
 }
 
 .myChildren>div .select-child>div .student-name h4 span {
+font-weight: 400;
+font-family: "Lato", sans-serif !important;
     overflow: hidden;
     -o-text-overflow: ellipsis;
     text-overflow: ellipsis
@@ -61559,6 +61568,7 @@ body.studentDashboard div.react-loader {
 }
 
 body.studentDashboard .widget-dashboard {
+display:none !important;
     display: block
 }
 
@@ -63558,93 +63568,6 @@ body.tabbedExamPage div.candidate-details table.table-borderless tbody tr th,bod
     }
 
 
-
-.widget-dashboard,
-div.st-sidebar-container {
-  display: none !important;
-}
-
-/* Header text accent */
-body h1:before {
-  color: #141f5a !important;
-}
-
-
-body.sectionHomePage .homepage-component > div h3 i.far.fa-square-poll-horizontal {
-
-
-body.sectionHomePage .homepage-component>div h3 i  {
-    color: #141f5a !important ;
-    font-size: 24px;
-    padding-right: 10px
-}
-
-
-/* Font settings for various elements */
-
-.nav,
-body a,
-header > div.container > div.supernav > a.biglink {
-  font-family: "Lato", sans-serif !important ;
- font-weight: 300;
-}
-
-/* Specific styling for biglink */
-header > div.container > div.supernav > a.biglink {
-  font-size: 14px;
- font-weight: 300;
-  
-}
-
-
-body.sectionHomePage .homepage-component > div h3 i.far.fa-square-poll-horizontal {
-  color: #141F5A !important; 
-}
-
-body h1 span,
-
-header > div.container > div.supernav div.account-summary > a,
-
-body h4 span {
- font-weight: bold;
-font-family: "Lato", sans-serif !important;
-  
-
-}
-
-
-
-
-
-
-
-
-
-
-    header>div.container>div.nav>nav>ul>li>div>a, header>div.container>div.nav>nav>ul>li>ul>li>div>a {
- font-weight: bold;
-font-family: "Lato", sans-serif !important;
-
-}
-
-
-
-
-.myChildren > div .select-child > div .student-name h4 span,
-.myChildren > div .select-child > div .student-name h4
-
-{
- font-weight: 400;
-font-family: "Lato", sans-serif !important;
-
-}
-
-
-.nav, body a, header > div.container > div.supernav > a.biglink {
-
-font-weight: bold;}
-
-
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 footer.d-print-none {
@@ -63680,6 +63603,7 @@ far fa-square-poll-horizontal {
   color: #141f5a !important;
 
 }
+
 
 
 
