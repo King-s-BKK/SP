@@ -63568,45 +63568,6 @@ body.tabbedExamPage div.candidate-details table.table-borderless tbody tr th,bod
     }
 
 
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-
-footer.d-print-none {
-  background-color: #141F5A !important;
-  height: 100px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  font-family: 'Lato', sans-serif;
-  font-size: 14px;
-  color: black;
-  padding-right: 20px; /* Optional: adds spacing from the right edge */
-}
-
-footer.d-print-none * {
-  display: none;
-}
-
-footer.d-print-none::before {
-  content: "© King's College International School Bangkok 2025. All Rights Reserved";
-  display: block;
-  text-align: right;
-  color: white;
-  
-  font-size: 14px;
-  font-weight: 300;
-  font-family: 'Lato', sans-serif !important;
-  width: 100%;
-  padding-right: 20px;
-}
-
-far fa-square-poll-horizontal {
-  color: #141f5a !important;
-
-}
-
-
-
-
 
     @supports (-ms-ime-align:auto) {
         body.tabbedExamPage div.st-content-page[data-view=exam-results] div.pupilExamResults div.exam-table div.exam-entry div.exam-entry-heading {
