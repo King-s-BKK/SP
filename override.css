@@ -1741,6 +1741,14 @@ a.fc-more:hover {
     z-index: var(--rx-level-toolbar)
 }
 
+
+
+.col-12.col-sm-12.col-md-6.col-lg-3.order-first.dashboard-column {
+  display: none !important;
+}
+
+
+
 .rx-editor-breakline address+*,.rx-editor-breakline blockquote+*,.rx-editor-breakline dl+*,.rx-editor-breakline figure+*,.rx-editor-breakline h1+h2,.rx-editor-breakline h2+h3,.rx-editor-breakline h3+h4,.rx-editor-breakline h4+h5,.rx-editor-breakline h5+h6,.rx-editor-breakline ol+*,.rx-editor-breakline p+*,.rx-editor-breakline pre+*,.rx-editor-breakline table+*,.rx-editor-breakline ul+*,.rx-editor-breakline>div+* {
     margin-top: 0!important
 }
@@ -63513,6 +63521,12 @@ body.tabbedExamPage div.candidate-details table.table-borderless tbody tr th,bod
         color: #404040!important;
         max-width: 100%
     }
+
+
+
+
+
+
 
     @supports (-ms-ime-align:auto) {
         body.tabbedExamPage div.st-content-page[data-view=exam-results] div.pupilExamResults div.exam-table div.exam-entry div.exam-entry-heading {
