@@ -32830,7 +32830,7 @@ div.react-checkbox i.fa-square {
 }
 
 div.react-checkbox.selected i.fa-square {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 div.react-checkbox div.capitalize {
@@ -37689,7 +37689,7 @@ div.original-message-link {
 }
 
 .widget-dashboard .widget .widget-bookings>div span {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 .widget-dashboard .widget .widget-bookings>div.alert {
@@ -38418,7 +38418,7 @@ body.userEventBookings article.ticket>div.ticket-info>div.booking-type {
     font-weight: 600;
     background: 0 0;
     border: none;
-    color: #141f5a
+    color: #141f5a!important
 }
 
 #form-groups h1 .custom-form-sub-share .btn-sub-share>i {
@@ -38789,7 +38789,7 @@ body.userEventBookings article.ticket>div.ticket-info>div.booking-type {
 }
 
 .formAppContainer .formAppMain table div.inlineBlock button.disabled:focus,.formAppContainer .formAppMain table div.inlineBlock button.disabled:hover {
-    background: #141f5a;
+    background: #141f5a!important;
     outline: 0!important
 }
 
@@ -39183,7 +39183,7 @@ body.userEventBookings article.ticket>div.ticket-info>div.booking-type {
     font-size: 13px!important;
     font-weight: 400;
     background-color: #fff;
-    color: #141f5a
+    color: #141f5a!important
 }
 
 .formAppContainer .formAppMain .formListHeader .download .btn>i {
@@ -39213,7 +39213,7 @@ body.userEventBookings article.ticket>div.ticket-info>div.booking-type {
 
 .formAppContainer .formAppMain .formListHeader .saveAndClose .btn:active,.formAppContainer .formAppMain .formListHeader .saveAndClose .btn:focus,.formAppContainer .formAppMain .formListHeader .saveAndClose .btn:hover {
     background-color: #fff;
-    color: #141f5a;
+    color: #141f5a!important;
     -webkit-box-shadow: none!important;
     box-shadow: none!important
 }
@@ -39262,7 +39262,7 @@ body.userEventBookings article.ticket>div.ticket-info>div.booking-type {
 }
 
 .formAppContainer .formAppMain .formListHeader .show-forms {
-    color: #141f5a;
+    color: #141f5a!important;
     cursor: pointer;
     text-decoration: underline
 }
@@ -41153,7 +41153,7 @@ body.checkout div.bookings .basket-reservation {
 }
 
 .formAppContainer .form-group.field body.checkout div.bookings table div.view-calendar span,body.checkout div.bookings .formAppContainer .form-group.field table div.view-calendar span,body.checkout div.bookings table.table div.view-calendar span {
-    color: #141f5a;
+    color: #141f5a!important;
     margin-left: 10px
 }
 
@@ -41293,7 +41293,7 @@ body.checkout div.bookings .basket-reservation {
 }
 
 .formAppContainer .form-group.field body.checkout div.bookings table .details-view>td .calendar-contain .calendar .dates .calendar-day.selected,.formAppContainer .form-group.field body.checkout div.bookings table .details-view>td .calendar-contain .calendar .dates>div.selected,.formAppContainer .form-group.field body.checkout div.bookings table tr.calendar-view>td .calendar-contain .calendar .dates .calendar-day.selected,.formAppContainer .form-group.field body.checkout div.bookings table tr.calendar-view>td .calendar-contain .calendar .dates>div.selected,body.checkout div.bookings .formAppContainer .form-group.field table .details-view>td .calendar-contain .calendar .dates .calendar-day.selected,body.checkout div.bookings .formAppContainer .form-group.field table .details-view>td .calendar-contain .calendar .dates>div.selected,body.checkout div.bookings .formAppContainer .form-group.field table tr.calendar-view>td .calendar-contain .calendar .dates .calendar-day.selected,body.checkout div.bookings .formAppContainer .form-group.field table tr.calendar-view>td .calendar-contain .calendar .dates>div.selected,body.checkout div.bookings table.table .details-view>td .calendar-contain .calendar .dates .calendar-day.selected,body.checkout div.bookings table.table .details-view>td .calendar-contain .calendar .dates>div.selected,body.checkout div.bookings table.table tr.calendar-view>td .calendar-contain .calendar .dates .calendar-day.selected,body.checkout div.bookings table.table tr.calendar-view>td .calendar-contain .calendar .dates>div.selected {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     color: #fff
 }
 
@@ -41785,8 +41785,8 @@ body.viewBundleBooking div.booked-bundle nav .nav-tabs .nav-link {
 }
 
 body.viewBundleBooking div.booked-bundle nav .nav-tabs .nav-link.active {
-    border-top: 2px solid #141f5a;
-    color: #141f5a
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important
 }
 
 body.viewBundleBooking div.tab-pane div.items {
@@ -42597,7 +42597,7 @@ body.pupilReports div.modal div.modal-body div.staff,body.pupilReports div.modal
 }
 
 #react-reports>div.reports>div.useful-buttons>div.housemasters-letter>button.disabled:active,#react-reports>div.reports>div.useful-buttons>div.housemasters-letter>button.disabled:focus,#react-reports>div.reports>div.useful-buttons>div.housemasters-letter>button.disabled:hover,#react-reports>div.reports>div.useful-buttons>div.tutors-letter>button.disabled:active,#react-reports>div.reports>div.useful-buttons>div.tutors-letter>button.disabled:focus,#react-reports>div.reports>div.useful-buttons>div.tutors-letter>button.disabled:hover {
-    background: #141f5a;
+    background: #141f5a!important;
     outline: 0!important
 }
 
@@ -42925,7 +42925,7 @@ body h1:before {
     font-size: 32px;
     font-weight: 400;
     margin-right: 16px;
-    color: #141f5a
+    color: #141f5a!important
 }
 
 body h1 .form-group {
@@ -42988,7 +42988,7 @@ body div.sub-heading {
 }
 
 body a {
-    color: #141f5a;
+    color: #141f5a!important;
 font-family: "Lato", sans-serif !important ;
  font-weight: 300;
 }
@@ -43213,7 +43213,7 @@ body.squidAdmin div.no-data .icon:empty:after,body.squidAdmin h1:before {
     background-color: #fff;
     border: 1px solid #e9e9e9;
     border-radius: 3px;
-    color: #141f5a;
+    color: #141f5a!important;
     font-size: 14px;
     font-weight: 700;
     padding: 6px 12px;
@@ -43230,14 +43230,14 @@ body.squidAdmin div.no-data .icon:empty:after,body.squidAdmin h1:before {
 
 .btn:active,.btn:focus,.btn:hover {
     background-color: #fff;
-    border: 1px solid #141f5a;
-    color: #141f5a;
+    border: 1px solid #141f5a!important;
+    color: #141f5a!important;
     -webkit-box-shadow: none!important;
     box-shadow: none!important
 }
 
 .btn.btn-info,.btn.btn-primary {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     border: 0;
     color: #fff!important
 }
@@ -43403,7 +43403,7 @@ button.round-chevron:active,button.round-chevron:focus {
 }
 
 button.round-chevron:active:hover,button.round-chevron:focus:hover {
-    border-color: #141f5a
+    border-color: #141f5a!important
 }
 
 #react-communications div.communications div.message-threads>div.additional-filters .round-chevron.btn-light:active,#react-communications div.communications div.message-threads>div.additional-filters .round-chevron.btn-light:focus,#react-communications div.communications div.message-threads>div.date-filter .round-chevron.btn-light:active,#react-communications div.communications div.message-threads>div.date-filter .round-chevron.btn-light:focus,.btn-default.round-chevron:active,.btn-default.round-chevron:focus {
@@ -43412,7 +43412,7 @@ button.round-chevron:active:hover,button.round-chevron:focus:hover {
 }
 
 #react-communications div.communications div.message-threads>div.additional-filters .round-chevron.btn-light:active:hover,#react-communications div.communications div.message-threads>div.additional-filters .round-chevron.btn-light:focus:hover,#react-communications div.communications div.message-threads>div.date-filter .round-chevron.btn-light:active:hover,#react-communications div.communications div.message-threads>div.date-filter .round-chevron.btn-light:focus:hover,.btn-default.round-chevron:active:hover,.btn-default.round-chevron:focus:hover {
-    border-color: #141f5a;
+    border-color: #141f5a!important;
     background: #f5f5f5!important
 }
 
@@ -43489,8 +43489,8 @@ div.filters.modal div.modal-body div.options-contain div.stage-1 ul.filter-selec
 }
 
 div.filters.modal div.modal-body div.options-contain div.stage-1 ul.filter-selection>li.is-shown {
-    border-left: 4px solid #141f5a;
-    color: #141f5a
+    border-left: 4px solid #141f5a!important;
+    color: #141f5a!important
 }
 
 div.filters.modal div.modal-body div.options-contain div.card {
@@ -43524,7 +43524,7 @@ div.filters.modal div.modal-body div.options-contain div.card div.input-group.co
 }
 
 div.filters.modal div.modal-body div.options-contain div.card div.input-group.colours div.colourOption.active {
-    border: 1px solid #141f5a
+    border: 1px solid #141f5a!important
 }
 
 div.filters.modal div.modal-body div.options-contain div.card div.input-group.colours div.colourOption i.selected {
@@ -43651,7 +43651,7 @@ label,label.control-label {
 }
 
 .form-control:focus,.react-datepicker__input-container span:focus,.react-datepicker__input-container>input:focus {
-    border: 1px solid #141f5a;
+    border: 1px solid #141f5a!important;
     -webkit-box-shadow: none;
     box-shadow: none
 }
@@ -43724,7 +43724,7 @@ label.msp-checkbox input,label.msp-radiobox input {
 }
 
 label.msp-checkbox input:checked~.checkmark,label.msp-radiobox input:checked~.checkmark {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     opacity: 1
 }
 
@@ -43805,7 +43805,7 @@ div.bootstrap-select button.dropdown-toggle {
 }
 
 .bootstrap-select.show .dropdown-toggle {
-    border-color: #141f5a
+    border-color: #141f5a!important
 }
 
 .bootstrap-select .dropdown-toggle {
@@ -43838,7 +43838,7 @@ div.bootstrap-select button.dropdown-toggle {
 
 .bootstrap-select .dropdown-menu a.selected {
     background-color: #f9f9f9;
-    border-left: 3px solid #141f5a;
+    border-left: 3px solid #141f5a!important;
     color: #141f5a!important
 }
 
@@ -43882,7 +43882,7 @@ div.date-picker-input input {
 }
 
 div.date-picker-input:after {
-    color: #141f5a;
+    color: #141f5a!important;
     content: "\f073";
     float: right;
     font-family: "Font Awesome 6 Pro";
@@ -43970,7 +43970,7 @@ div.fake-dropdown>button {
     background: 0 0;
     border: 1px solid #e7e7e7;
     border-radius: 4px;
-    color: #141f5a;
+    color: #141f5a!important;
     height: 42px;
     padding: 6px 20px 6px 10px;
     text-align: left;
@@ -43989,11 +43989,11 @@ div.fake-dropdown>button:after {
 
 div.fake-dropdown>button:hover {
     background-color: #f9f9f9;
-    border-color: #141f5a
+    border-color: #141f5a!important
 }
 
 div.fake-dropdown.selected>button {
-    border-top: 3px solid #141f5a;
+    border-top: 3px solid #141f5a!important;
     padding-top: 3px
 }
 
@@ -44087,7 +44087,7 @@ div.fake-dropdown .dropdown>ul li>label {
     border-radius: 5px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    color: #141f5a;
+    color: #141f5a!important;
     cursor: pointer;
     display: block;
     height: 100%;
@@ -44107,17 +44107,17 @@ div.fake-dropdown .dropdown>ul li.l2>label {
 }
 
 div.fake-dropdown .dropdown>ul li.selected>label {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     color: #fff
 }
 
 div.fake-dropdown .dropdown>ul li.hover>label {
     background-color: #f9f9f9;
-    border-color: #141f5a
+    border-color: #141f5a!important
 }
 
 div.fake-dropdown .dropdown>ul li.hover>label:after {
-    color: #141f5a;
+    color: #141f5a!important;
     content: "\f00c"
 }
 
@@ -44132,7 +44132,7 @@ div.fake-dropdown .dropdown>ul li.hover.selected>label:after {
 }
 
 div.fake-dropdown.shown>button {
-    border-color: #141f5a
+    border-color: #141f5a!important
 }
 
 div.fake-dropdown.shown .dropdown {
@@ -44255,7 +44255,7 @@ div.no-data {
 }
 
 div.no-data div.icon {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     border-radius: 50%;
     color: #fff;
     font-size: 34px;
@@ -44378,7 +44378,7 @@ div.no-data div.error {
 .formAppContainer .form-group.field table.form-response-table .response-header.active,.formAppContainer .form-group.field table.form-response-table .response-header:hover,table.table.form-response-table .response-header.active,table.table.form-response-table .response-header:hover {
     background-color: #f9f9f9;
     border: 1px solid #e7e7e7;
-    color: #141f5a;
+    color: #141f5a!important;
     cursor: pointer
 }
 
@@ -44609,7 +44609,7 @@ div.introjs-tooltipReferenceLayer div.introjs-tooltipbuttons a {
     background: #fff;
     border: 1px solid #e9e9e9;
     border-radius: 3px;
-    color: #141f5a;
+    color: #141f5a!important;
     font-size: 14px;
     font-weight: 700;
     padding: 6px 12px;
@@ -44620,7 +44620,7 @@ div.introjs-tooltipReferenceLayer div.introjs-tooltipbuttons a {
 div.introjs-tooltipReferenceLayer div.introjs-tooltipbuttons a:active,div.introjs-tooltipReferenceLayer div.introjs-tooltipbuttons a:focus,div.introjs-tooltipReferenceLayer div.introjs-tooltipbuttons a:hover {
     background: #fff;
     border: 1px solid #e9e9e9;
-    color: #141f5a
+    color: #141f5a!important
 }
 
 div.introjs-tooltipReferenceLayer div.introjs-tooltipbuttons a.introjs-disabled {
@@ -44862,8 +44862,8 @@ div.msp-slick-tutorial div.modal-footer button.msp-slick-done:hover {
 .msp-tabs>ul li.active {
     border: 1px solid #e7e7e7;
     border-bottom: 1px solid #fff;
-    border-top: 2px solid #141f5a;
-    color: #141f5a
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important
 }
 
 .msp-tabs>ul li.active:first-child {
@@ -44919,13 +44919,13 @@ div.badge.info {
 }
 
 div.badge.primary {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     color: #fff
 }
 
 .start_intro {
     font-size: 1rem;
-    color: #141f5a;
+    color: #141f5a!important;
     margin: 5px;
     -ms-flex-item-align: start;
     align-self: flex-start;
@@ -45028,8 +45028,8 @@ ul.msp-nav-tabs li {
 ul.msp-nav-tabs li.active {
     border: 1px solid #e7e7e7;
     border-bottom: 1px solid #fff;
-    border-top: 2px solid #141f5a;
-    color: #141f5a
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important
 }
 
 .word-break-all {
@@ -45069,7 +45069,7 @@ ul.msp-nav-tabs li.active {
 
 .data-table tbody tr.expanded-parent-row {
     color: #fff;
-    background-color: #141f5a
+    background-color: #141f5a!important
 }
 
 .data-table tbody tr.expanded-parent-row:hover {
@@ -45326,7 +45326,7 @@ div.wysiwyg-content ol:not(.breadcrumb) ol ol li {
 }
 
 div.wysiwyg-content a:active,div.wysiwyg-content a:focus {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 div.wysiwyg-content a:active:hover,div.wysiwyg-content a:focus:hover {
@@ -45985,7 +45985,7 @@ div.success-message div.icon:after {
 
 .react-datepicker {
     font-size: 14px;
-    border-color: #141f5a
+    border-color: #141f5a!important
 }
 
 .react-datepicker .react-datepicker__header {
@@ -46070,22 +46070,22 @@ div.success-message div.icon:after {
     }
 
     .react-datepicker .react-datepicker__header__dropdown .react-datepicker__month-dropdown-container .react-datepicker__month-read-view:hover,.react-datepicker .react-datepicker__header__dropdown .react-datepicker__month-dropdown-container .react-datepicker__year-read-view:hover,.react-datepicker .react-datepicker__header__dropdown .react-datepicker__year-dropdown-container .react-datepicker__month-read-view:hover,.react-datepicker .react-datepicker__header__dropdown .react-datepicker__year-dropdown-container .react-datepicker__year-read-view:hover {
-        color: #141f5a
+        color: #141f5a!important
     }
 
     .react-datepicker .react-datepicker__month-dropdown .react-datepicker__month-option:hover,.react-datepicker .react-datepicker__month-dropdown .react-datepicker__year-option:hover,.react-datepicker .react-datepicker__year-dropdown .react-datepicker__month-option:hover,.react-datepicker .react-datepicker__year-dropdown .react-datepicker__year-option:hover {
         background-color: #f9f9f9;
-        color: #141f5a
+        color: #141f5a!important
     }
 
     .react-datepicker .react-datepicker__month-dropdown .react-datepicker__month-option:hover .react-datepicker__navigation--years-upcoming,.react-datepicker .react-datepicker__month-dropdown .react-datepicker__year-option:hover .react-datepicker__navigation--years-upcoming,.react-datepicker .react-datepicker__year-dropdown .react-datepicker__month-option:hover .react-datepicker__navigation--years-upcoming,.react-datepicker .react-datepicker__year-dropdown .react-datepicker__year-option:hover .react-datepicker__navigation--years-upcoming {
         background-color: transparent;
-        border-bottom-color: #141f5a
+        border-bottom-color: #141f5a!important
     }
 
     .react-datepicker .react-datepicker__month-dropdown .react-datepicker__month-option:hover .react-datepicker__navigation--years-previous,.react-datepicker .react-datepicker__month-dropdown .react-datepicker__year-option:hover .react-datepicker__navigation--years-previous,.react-datepicker .react-datepicker__year-dropdown .react-datepicker__month-option:hover .react-datepicker__navigation--years-previous,.react-datepicker .react-datepicker__year-dropdown .react-datepicker__year-option:hover .react-datepicker__navigation--years-previous {
         background-color: transparent;
-        border-top-color: #141f5a
+        border-top-color: #141f5a!important
     }
 }
 
@@ -46095,13 +46095,13 @@ div.success-message div.icon:after {
 
 .react-datepicker .react-datepicker__navigation.react-datepicker__navigation--previous {
     background-color: #fff;
-    border: 1px solid #141f5a;
+    border: 1px solid #141f5a!important;
     top: 15px;
     border-radius: 3px
 }
 
 .react-datepicker .react-datepicker__navigation.react-datepicker__navigation--previous>.react-datepicker__navigation-icon::before {
-    border-color: #141f5a;
+    border-color: #141f5a!important;
     border-style: solid;
     border-width: 3px 3px 0 0;
     content: "";
@@ -46118,19 +46118,19 @@ div.success-message div.icon:after {
 
 @media (hover: hover) {
     .react-datepicker .react-datepicker__navigation.react-datepicker__navigation--previous:hover {
-        border-right-color:#141f5a
+        border-right-color:#141f5a!important
     }
 }
 
 .react-datepicker .react-datepicker__navigation.react-datepicker__navigation--next {
     background-color: #fff;
-    border: 1px solid #141f5a;
+    border: 1px solid #141f5a!important;
     top: 15px;
     border-radius: 3px
 }
 
 .react-datepicker .react-datepicker__navigation.react-datepicker__navigation--next>.react-datepicker__navigation-icon::before {
-    border-color: #141f5a;
+    border-color: #141f5a!important;
     border-style: solid;
     border-width: 3px 3px 0 0;
     content: "";
@@ -46151,7 +46151,7 @@ div.success-message div.icon:after {
 
 @media (hover: hover) {
     .react-datepicker .react-datepicker__navigation.react-datepicker__navigation--next:hover {
-        border-left-color:#141f5a
+        border-left-color:#141f5a!important
     }
 
     .react-datepicker .react-datepicker__year-option:hover .react-datepicker__navigation--years-upcoming {
@@ -46205,7 +46205,7 @@ div.success-message div.icon:after {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background: #141f5a;
+    background: #141f5a!important;
     border-bottom-left-radius: .3em;
     border-bottom-right-radius: .3em;
     display: -webkit-box;
@@ -47132,7 +47132,7 @@ div.st-sidebar-container ul li a:focus,div.st-sidebar-container ul li a:hover,di
 }
 
 .st-cm-content-page .back-link,.st-content-page .back-link {
-    color: #141f5a;
+    color: #141f5a!important;
     cursor: pointer;
     display: inline-block;
     font-weight: 700;
@@ -47723,7 +47723,7 @@ body.sectionHomePage .homepage-component>div h3 a {
 }
 
 body.sectionHomePage .homepage-component>div h3 i {
-    color: #141f5a;
+    color: #141f5a!important;
     font-size: 24px;
     padding-right: 10px
 }
@@ -49074,7 +49074,7 @@ body.sectionHomePage div.dashboard div.homepage-component.latestMessages article
 }
 
 body.sectionHomePage div.dashboard div.homepage-component.latestMessages article>div.title>div.favourite>i.fa-spinner,body.sectionHomePage div.dashboard div.homepage-component.latestMessagesForMyChild article>div.title>div.favourite>i.fa-spinner {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 body.sectionHomePage div.dashboard div.homepage-component.latestMessages article>div.title>div.favourite>i.fa-star,body.sectionHomePage div.dashboard div.homepage-component.latestMessagesForMyChild article>div.title>div.favourite>i.fa-star {
@@ -49481,8 +49481,8 @@ body.alexa .nav-tabs li a {
 body.alexa .nav-tabs li a.active {
     border: 1px solid #e7e7e7;
     border-bottom: 1px solid #fff;
-    border-top: 2px solid #141f5a;
-    color: #141f5a
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important
 }
 
 body.alexa .nav-tabs li a:not(.active):hover {
@@ -49872,7 +49872,7 @@ body.bookBundle div.bundle div.bundleDescription p {
 }
 
 body.bookBundle div.bundle div.items div.item.selected {
-    background-color: #141f5a
+    background-color: #141f5a!important
 }
 
 body.bookableBundles div.bundles .bundle {
@@ -49933,7 +49933,7 @@ body.bookableBundles div.bundles .bundle div.card-body div.action div.btn {
 }
 
 #react-communications div.communications div.favourite-button>i.fa-spinner {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 #react-communications div.communications div.favourite-button>i.fa-star {
@@ -50131,13 +50131,13 @@ body.bookableBundles div.bundles .bundle div.card-body div.action div.btn {
 }
 
 #react-communications div.communications div.message-threads>div.additional-filters>div.students-filter>div.fake-dropdown>div.dropdown>ul.selectables>li.l1.selected,#react-communications div.communications div.message-threads>div.additional-filters>div.students-filter>div.fake-dropdown>div.dropdown>ul.selectables>li.l1:hover {
-    color: #141f5a;
+    color: #141f5a!important;
     background-color: #f9f9f9;
     border-left-color: #f9f9f9
 }
 
 #react-communications div.communications div.message-threads>div.additional-filters>div.students-filter>div.fake-dropdown>div.dropdown>ul.selectables>li.l1.selected {
-    border-left-color: #141f5a
+    border-left-color: #141f5a!important
 }
 
 #react-communications div.communications div.message-threads>div.additional-filters>div.students-filter>div.fake-dropdown>div.dropdown>ul.selectables>li.l1.selected::after {
@@ -50255,7 +50255,7 @@ body.bookableBundles div.bundles .bundle div.card-body div.action div.btn {
 }
 
 #react-communications div.communications div.message-threads>div.threads div.thread.open {
-    background: #141f5a;
+    background: #141f5a!important;
     color: #fff;
     overflow: visible
 }
@@ -50273,7 +50273,7 @@ body.bookableBundles div.bundles .bundle div.card-body div.action div.btn {
     width: 0;
     border-top: 29px solid transparent;
     border-bottom: 29px solid transparent;
-    border-left: 10px solid #141f5a;
+    border-left: 10px solid #141f5a!important;
     border-right: none
 }
 
@@ -50434,7 +50434,7 @@ body.bookableBundles div.bundles .bundle div.card-body div.action div.btn {
 }
 
 #react-communications div.communications>div.message-thread>div.message>div.body>div.html-email div.attachments a:active,#react-communications div.communications>div.message-thread>div.message>div.body>div.html-email div.attachments a:focus {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 #react-communications div.communications>div.message-thread>div.message>div.body>div.html-email div.attachments a:active:hover,#react-communications div.communications>div.message-thread>div.message>div.body>div.html-email div.attachments a:focus:hover {
@@ -50500,12 +50500,12 @@ body.bookableBundles div.bundles .bundle div.card-body div.action div.btn {
 
 #react-communications div.communications>div.message-thread>div.message-reply>h3,#react-communications div.communications>div.message-thread>div.message-reply>h4 {
     font-size: 14px;
-    color: #141f5a
+    color: #141f5a!important
 }
 
 #react-communications div.communications>div.message-thread>div.message-reply>h4 {
     font-size: 14px;
-    color: #141f5a;
+    color: #141f5a!important;
     text-decoration: underline;
     font-weight: 400
 }
@@ -50598,13 +50598,13 @@ body.customFormSubmissions .st-main-content #react-custom-form-submissions .card
 }
 
 body.customFormSubmissions .st-main-content #react-custom-form-submissions .card .card-header .card-header-tabs .nav-item .nav-link:hover {
-    color: #141f5a;
+    color: #141f5a!important;
     border-color: transparent
 }
 
 body.customFormSubmissions .st-main-content #react-custom-form-submissions .card .card-header .card-header-tabs .nav-item .nav-link.active {
-    border-top: 2px solid #141f5a;
-    color: #141f5a;
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important;
     pointer-events: none
 }
 
@@ -50618,7 +50618,7 @@ body.customFormSubmissions .st-main-content #react-custom-form-submissions .card
 }
 
 body.customFormSubmissions .st-main-content #react-custom-form-submissions .card div.card-body a.disabled:active,body.customFormSubmissions .st-main-content #react-custom-form-submissions .card div.card-body a.disabled:focus,body.customFormSubmissions .st-main-content #react-custom-form-submissions .card div.card-body a.disabled:hover,body.customFormSubmissions .st-main-content #react-custom-form-submissions .card div.card-body button.disabled:active,body.customFormSubmissions .st-main-content #react-custom-form-submissions .card div.card-body button.disabled:focus,body.customFormSubmissions .st-main-content #react-custom-form-submissions .card div.card-body button.disabled:hover {
-    background: #141f5a;
+    background: #141f5a!important;
     outline: 0!important
 }
 
@@ -50886,7 +50886,7 @@ body.googleClassrooms #react-google-classrooms .classroom-sidebar .classroom-lis
 
 body.googleClassrooms #react-google-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.googleClassrooms #react-microsoft-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.guardianGoogleClassrooms #react-google-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.guardianGoogleClassrooms #react-microsoft-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.pupilGoogleClassrooms #react-google-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.pupilGoogleClassrooms #react-microsoft-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.staffGoogleClassrooms #react-google-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.staffGoogleClassrooms #react-microsoft-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.staffMicrosoftClassrooms #react-google-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.staffMicrosoftClassrooms #react-microsoft-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.studentMicrosoftClassrooms #react-google-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected,body.studentMicrosoftClassrooms #react-microsoft-classrooms .classroom-sidebar .classroom-list-wrapper .classroom-list .classroom.selected {
     color: #fff;
-    background: #141f5a;
+    background: #141f5a!important;
     font-weight: 700;
     -webkit-box-shadow: 0 0 5px 2px rgba(0,0,0,.09);
     box-shadow: 0 0 5px 2px rgba(0,0,0,.09)
@@ -51657,8 +51657,8 @@ body.googleClassrooms #react-google-classrooms .feedback-summary,body.googleClas
 
 .k-list-container>.k-popup>.k-list-scroller ul.k-list>.k-item.k-state-selected {
     background-color: #f9f9f9;
-    border-left: 3px solid #141f5a;
-    color: #141f5a
+    border-left: 3px solid #141f5a!important;
+    color: #141f5a!important
 }
 
 .k-scheduler .k-toolbar .k-dropdown {
@@ -52828,18 +52828,18 @@ body.documents div.content-wrapper div.st-main-content div.st-content-area div.c
     font-weight: 700;
     border-radius: 0;
     border: 1px solid #e7e7e7;
-    color: #141f5a;
+    color: #141f5a!important;
     background: #fff;
     border-top: none
 }
 
 body.documents div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header:hover,body.guardianDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header:hover,body.pupilDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header:hover,body.sectionDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header:hover {
-    color: #141f5a;
+    color: #141f5a!important;
     background: #fff
 }
 
 body.documents div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header[aria-expanded=true],body.guardianDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header[aria-expanded=true],body.pupilDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header[aria-expanded=true],body.sectionDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header[aria-expanded=true] {
-    border-left: 5px solid #141f5a
+    border-left: 5px solid #141f5a!important
 }
 
 body.documents div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header[aria-expanded=true] .card-title,body.guardianDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header[aria-expanded=true] .card-title,body.pupilDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header[aria-expanded=true] .card-title,body.sectionDocuments div.content-wrapper div.st-main-content div.st-content-area div.card-group div.card-default div.card-header[aria-expanded=true] .card-title {
@@ -53411,7 +53411,7 @@ body.event div.event-booking div.formAppContainer div.form-group.field div.my-ac
 }
 
 body.event div.event-booking div.formAppContainer div.form-group.field div.my-account div.details-contain.edit,body.event div.trip-booking div.formAppContainer div.form-group.field div.my-account div.details-contain.edit {
-    border: 1px solid #141f5a
+    border: 1px solid #141f5a!important
 }
 
 body.event div.trip-booking {
@@ -53573,7 +53573,7 @@ body.event div.who-vs-who>div.team-score {
     -ms-flex-pack: center;
     justify-content: center;
     padding: 0;
-    background: #141f5a;
+    background: #141f5a!important;
     color: #fff;
     line-height: 34px;
     border-right: 1px solid #f2f2f2;
@@ -54205,7 +54205,7 @@ body.eventsCalendar div.diary div.heading>div.full-calendar.toggle-selected,body
     background: #fff;
     border: 1px solid #e7e7e7;
     border-bottom: 1px solid #fff;
-    color: #141f5a
+    color: #141f5a!important
 }
 
 body.eventsCalendar div.diary div.heading>div.full-calendar.toggle-selected h4,body.eventsCalendar div.diary div.heading>div.saved-calendars.toggle-selected h4,body.sectionEvents div.diary div.heading>div.full-calendar.toggle-selected h4,body.sectionEvents div.diary div.heading>div.saved-calendars.toggle-selected h4 {
@@ -54276,7 +54276,7 @@ body.eventsCalendar div.diary div.full-calendar .fc-body .fc-time-grid .fc-slats
 }
 
 body.eventsCalendar div.diary div.full-calendar .fc-content-skeleton .fc-now-indicator,body.sectionEvents div.diary div.full-calendar .fc-content-skeleton .fc-now-indicator {
-    border-color: #141f5a
+    border-color: #141f5a!important
 }
 
 body.eventsCalendar div.diary div.full-calendar .fc-content-skeleton .fc-now-indicator-arrow,body.sectionEvents div.diary div.full-calendar .fc-content-skeleton .fc-now-indicator-arrow {
@@ -54538,7 +54538,7 @@ body.eventsCalendar div.diary-day article .summary ol:not(.breadcrumb) ol ol li,
 }
 
 body.eventsCalendar div.diary-day article .summary a:active,body.eventsCalendar div.diary-day article .summary a:focus,body.sectionEvents div.diary-day article .summary a:active,body.sectionEvents div.diary-day article .summary a:focus {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 body.eventsCalendar div.diary-day article .summary a:active:hover,body.eventsCalendar div.diary-day article .summary a:focus:hover,body.sectionEvents div.diary-day article .summary a:active:hover,body.sectionEvents div.diary-day article .summary a:focus:hover {
@@ -55276,7 +55276,7 @@ body.pupilExamTimetables thead.timetable-day h2,div.pupilExamTimetables thead.ti
 }
 
 body.pupilExamTimetables thead.timetable-day h2 i,div.pupilExamTimetables thead.timetable-day h2 i {
-    color: #141f5a;
+    color: #141f5a!important;
     margin-right: 7px
 }
 
@@ -55404,7 +55404,7 @@ body.rssFeed article>h3 {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background: #141f5a;
+    background: #141f5a!important;
     border: 0;
     border-bottom: 1px solid #e7e7e7;
     color: #fff;
@@ -55549,7 +55549,7 @@ body.absence div.form-group div.child-select label.child-contain .checkmark,body
 }
 
 body.absence div.form-group div.child-select label.child-contain.selected,body.absence div.form-group div.child-select label.child-contain:hover,body.absence div.form-group div.child-select label.child-contain:notice-alertfocus,body.contact div.form-group div.child-select label.child-contain.selected,body.contact div.form-group div.child-select label.child-contain:hover,body.contact div.form-group div.child-select label.child-contain:notice-alertfocus,body.leaveRequest div.form-group div.child-select label.child-contain.selected,body.leaveRequest div.form-group div.child-select label.child-contain:hover,body.leaveRequest div.form-group div.child-select label.child-contain:notice-alertfocus {
-    border-color: #141f5a
+    border-color: #141f5a!important
 }
 
 body.absence div.form-group div.child-select label.child-contain.selected,body.contact div.form-group div.child-select label.child-contain.selected,body.leaveRequest div.form-group div.child-select label.child-contain.selected {
@@ -55608,7 +55608,7 @@ body.absence .notice-alert,body.contact .notice-alert,body.leaveRequest .notice-
 }
 
 body.absence .notice-alert i,body.contact .notice-alert i,body.leaveRequest .notice-alert i {
-    color: #141f5a;
+    color: #141f5a!important;
     font-size: 32px;
     margin-right: 10px
 }
@@ -55747,7 +55747,7 @@ body.teacherContactForm div.formResponses-panel div.empty {
 
     body.absence div.child-select label.child-contain.selected,body.contact div.child-select label.child-contain.selected,body.leaveRequest div.child-select label.child-contain.selected {
         border-left: 3px solid var(--color-1);
-        border-bottom: 1px solid #141f5a;
+        border-bottom: 1px solid #141f5a!important;
         padding-bottom: 15px;
         padding-left: 40px
     }
@@ -55914,13 +55914,13 @@ body.formGroup div.formAppContainer div.formAppMain .card .card-header .card-hea
 }
 
 body.formGroup div.formAppContainer div.formAppMain .card .card-header .card-header-tabs .nav-item .nav-link:hover {
-    color: #141f5a;
+    color: #141f5a!important;
     border-color: transparent
 }
 
 body.formGroup div.formAppContainer div.formAppMain .card .card-header .card-header-tabs .nav-item .nav-link.active {
-    border-top: 2px solid #141f5a;
-    color: #141f5a;
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important;
     pointer-events: none
 }
 
@@ -56103,7 +56103,7 @@ body.gallery div.gallerys div.frame>a.gallery>div>img,body.youtube div.gallerys 
 }
 
 body.gallery div.gallerys div.frame>a.gallery>div>.overlay,body.youtube div.gallerys div.frame>a.gallery>div>.overlay {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     bottom: 15px;
     height: 0;
     left: 15px;
@@ -56141,7 +56141,7 @@ body.gallery div.gallerys div.frame>a.gallery>div>div.hover-icon div,body.youtub
 }
 
 body.gallery div.gallerys div.frame>a.gallery>div.title,body.youtube div.gallerys div.frame>a.gallery>div.title {
-    background: #141f5a;
+    background: #141f5a!important;
     bottom: 15px;
     color: #fff;
     left: 15px;
@@ -56443,7 +56443,7 @@ body.pupilHomework .st-cm-content-page h1 div.form-group div.dropdown-menu div.b
 }
 
 body.pupilHomework .st-cm-content-page tr.clickable td,body.pupilHomework .st-content-page tr.clickable td,body.pupilHomework .st-main-content tr.clickable td,body.teacherHomework .st-cm-content-page tr.clickable td,body.teacherHomework .st-content-page tr.clickable td,body.teacherHomework .st-main-content tr.clickable td {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 body.pupilHomework .st-cm-content-page tr.clickable:hover td,body.pupilHomework .st-content-page tr.clickable:hover td,body.pupilHomework .st-main-content tr.clickable:hover td,body.teacherHomework .st-cm-content-page tr.clickable:hover td,body.teacherHomework .st-content-page tr.clickable:hover td,body.teacherHomework .st-main-content tr.clickable:hover td {
@@ -58519,8 +58519,8 @@ body.parentDirectory div.parent-directory-section div.parent-directory-filter ul
 body.parentDirectory div.parent-directory-section div.parent-directory-filter ul.nav-tabs li.active {
     border: 1px solid #e7e7e7;
     border-bottom: 1px solid #fff;
-    border-top: 2px solid #141f5a;
-    color: #141f5a
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important
 }
 
 body.parentDirectory div.parent-directory-section div.parent-directory-filter ul.nav-tabs li:first-child {
@@ -58806,7 +58806,7 @@ body.staffMicrosoftClassrooms #react-microsoft-classrooms .microsoft-classroom-s
 
 body.staffMicrosoftClassrooms #react-microsoft-classrooms .microsoft-classroom-sidebar .microsoft-classroom-list-wrapper .microsoft-classroom-list .microsoft-classroom.selected,body.studentMicrosoftClassrooms #react-microsoft-classrooms .microsoft-classroom-sidebar .microsoft-classroom-list-wrapper .microsoft-classroom-list .microsoft-classroom.selected {
     color: #fff;
-    background: #141f5a;
+    background: #141f5a!important;
     font-weight: 700;
     -webkit-box-shadow: 0 0 5px 2px rgba(0,0,0,.09);
     box-shadow: 0 0 5px 2px rgba(0,0,0,.09)
@@ -59124,13 +59124,13 @@ body.staffMicrosoftClassrooms #react-microsoft-classrooms .microsoft-classrooms-
 }
 
 body.staffMicrosoftClassrooms #react-microsoft-classrooms .microsoft-classrooms-assignment-overview .card .card-header .card-header-tabs .nav-item .nav-link:hover,body.studentMicrosoftClassrooms #react-microsoft-classrooms .microsoft-classrooms-assignment-overview .card .card-header .card-header-tabs .nav-item .nav-link:hover {
-    color: #141f5a;
+    color: #141f5a!important;
     border-color: transparent
 }
 
 body.staffMicrosoftClassrooms #react-microsoft-classrooms .microsoft-classrooms-assignment-overview .card .card-header .card-header-tabs .nav-item .nav-link.active,body.studentMicrosoftClassrooms #react-microsoft-classrooms .microsoft-classrooms-assignment-overview .card .card-header .card-header-tabs .nav-item .nav-link.active {
-    border-top: 2px solid #141f5a;
-    color: #141f5a;
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important;
     pointer-events: none
 }
 
@@ -59950,7 +59950,7 @@ body.formGroup div.details-contain h4 div.badges div.badge,body.myAccount div.de
 body.formGroup div.details-contain h4 div.cannot-edit,body.myAccount div.details-contain h4 div.cannot-edit {
     margin-left: auto;
     font-size: 12px;
-    color: #141f5a
+    color: #141f5a!important
 }
 
 body.formGroup div.details-contain h4 div.cannot-edit i.fa-do-not-enter,body.myAccount div.details-contain h4 div.cannot-edit i.fa-do-not-enter {
@@ -60014,7 +60014,7 @@ body.formGroup div.details-contain div.badge,body.myAccount div.details-contain 
 
 body.formGroup div.details-contain.edit,body.myAccount div.details-contain.edit {
     background: #fcfcfc;
-    border: 1px solid #141f5a
+    border: 1px solid #141f5a!important
 }
 
 body.formGroup div.details-contain.edit div.privacy span.text,body.myAccount div.details-contain.edit div.privacy span.text {
@@ -60056,7 +60056,7 @@ body.formGroup div.details-contain div.who-sees>button>i,body.myAccount div.deta
 }
 
 body.formGroup div.details-contain div.who-sees>button.selected,body.myAccount div.details-contain div.who-sees>button.selected {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     color: #fff
 }
 
@@ -60121,7 +60121,7 @@ body.formGroup div.details-contain div.students button.student,body.myAccount di
 }
 
 body.formGroup div.details-contain div.students button.student.selected,body.myAccount div.details-contain div.students button.student.selected {
-    background-color: #141f5a;
+    background-color: #141f5a!important;
     color: #fff
 }
 
@@ -60208,7 +60208,7 @@ body.formGroup div.device-linking-modal p.shortcode,body.myAccount div.device-li
 
 body.formGroup div.device-linking-modal p.shortcode-help>a,body.myAccount div.device-linking-modal p.shortcode-help>a {
     cursor: pointer;
-    color: #141f5a;
+    color: #141f5a!important;
     font-size: 12px
 }
 
@@ -61735,7 +61735,7 @@ body.studentDashboard .widget-dashboard .widget.pupilRewards a,body.studentDashb
 }
 
 body.studentDashboard .widget-dashboard .widget.pupilRewards a .st-title,body.studentDashboard .widget-dashboard .widget.pupilSanctions a .st-title {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 body.studentDashboard .widget-dashboard .widget.pupilRewards a .st-title:hover,body.studentDashboard .widget-dashboard .widget.pupilSanctions a .st-title:hover {
@@ -61873,7 +61873,7 @@ body.studentDashboard .widget-dashboard .widget.bookings div.bookings-container 
 }
 
 body.studentDashboard .widget-dashboard .widget.bookings div.bookings-container a:hover,body.studentDashboard .widget-dashboard .widget.pupilBookings div.bookings-container a:hover,body.studentDashboard .widget-dashboard .widget.userBookings div.bookings-container a:hover {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 body.studentDashboard .widget-dashboard .widget.bookings div.number,body.studentDashboard .widget-dashboard .widget.pupilBookings div.number,body.studentDashboard .widget-dashboard .widget.userBookings div.number {
@@ -61893,7 +61893,7 @@ body.studentDashboard .widget-dashboard .widget.bookings div.number i,body.stude
 }
 
 body.studentDashboard .widget-dashboard .widget.bookings div.number>span,body.studentDashboard .widget-dashboard .widget.pupilBookings div.number>span,body.studentDashboard .widget-dashboard .widget.userBookings div.number>span {
-    color: #141f5a;
+    color: #141f5a!important;
     font-size: 42px;
     margin: 0 7px
 }
@@ -62113,7 +62113,7 @@ body.studentDashboard .widget-dashboard .widget .widget-footer {
 }
 
 .squidGuardian #react-squid .name-highlight,.squidStaff #react-squid .name-highlight {
-    color: #141f5a
+    color: #141f5a!important
 }
 
 .squidGuardian #react-squid .squid-wrapper,.squidStaff #react-squid .squid-wrapper {
@@ -62607,8 +62607,8 @@ body.pupilTimetables div.timetable-week-select ul li,body.teacherTimetables div.
 body.pupilTimetables div.timetable-week-select ul li.active,body.teacherTimetables div.timetable-week-select ul li.active {
     border: 1px solid #e7e7e7;
     border-bottom: 1px solid #fff;
-    border-top: 2px solid #141f5a;
-    color: #141f5a
+    border-top: 2px solid #141f5a!important;
+    color: #141f5a!important
 }
 
 body.pupilTimetables div.st-content-area,body.teacherTimetables div.st-content-area {
