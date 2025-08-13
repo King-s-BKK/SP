@@ -12,8 +12,8 @@
     html, body {
       margin: 0;
       padding: 0;
-     
       height: 100%;
+      width: 100%;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -30,6 +30,7 @@
 
     .airvisual-wrapper {
       text-align: center;
+      transform-origin: top center;
     }
 
     [name="airvisual_widget"] {
@@ -40,6 +41,10 @@
     @media (max-width: 600px) {
       .widget-container {
         padding: 10px;
+      }
+
+      .airvisual-wrapper {
+        transform: scale(0.7);
       }
     }
   </style>
@@ -53,5 +58,3 @@
   <script type="text/javascript" src="https://widget.iqair.com/script/widget_v3.0.js"></script>
 </body>
 </html>
-
-
