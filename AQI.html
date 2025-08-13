@@ -17,7 +17,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background-color: #f9f9f9; /* Optional background */
+      background-color: #f9f9f9;
     }
 
     .widget-container {
@@ -31,12 +31,12 @@
 
     .airvisual-wrapper {
       width: 100%;
+      text-align: center; /* Center inline-block content */
     }
 
     [name="airvisual_widget"] {
-      width: 100%;
-      height: auto;
-      display: block;
+      display: inline-block; /* Allows centering via text-align */
+      margin: 0 auto;
     }
 
     @media (max-width: 600px) {
